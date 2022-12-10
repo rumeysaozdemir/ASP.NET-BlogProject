@@ -27,4 +27,3 @@ namespace DataAccessLayer.Concrete.Context
     }
 }
 
-//Migration:Amacı, Codefirst kullanarak tablo oluşturmak. 
